@@ -1,0 +1,8 @@
+/Users/ih/Desktop/f-API-MVC/todoapi/bin/Debug/netcoreapp2.0/todoapi.deps.json
+/Users/ih/Desktop/f-API-MVC/todoapi/bin/Debug/netcoreapp2.0/todoapi.runtimeconfig.json
+/Users/ih/Desktop/f-API-MVC/todoapi/bin/Debug/netcoreapp2.0/todoapi.runtimeconfig.dev.json
+/Users/ih/Desktop/f-API-MVC/todoapi/bin/Debug/netcoreapp2.0/todoapi.dll
+/Users/ih/Desktop/f-API-MVC/todoapi/bin/Debug/netcoreapp2.0/todoapi.pdb
+/Users/ih/Desktop/f-API-MVC/todoapi/obj/Debug/netcoreapp2.0/todoapi.fsprojAssemblyReference.cache
+/Users/ih/Desktop/f-API-MVC/todoapi/obj/Debug/netcoreapp2.0/todoapi.dll
+/Users/ih/Desktop/f-API-MVC/todoapi/obj/Debug/netcoreapp2.0/todoapi.pdb
