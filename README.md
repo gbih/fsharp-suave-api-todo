@@ -8,13 +8,13 @@ $ dotnet run
 
 Use a tool like Postman to test the API endpoints:
 ```sh
-GET http://127.0.0.1:8080/api/todo
+GET  http://127.0.0.1:8080/api/todo
 POST http://127.0.0.1:8080/api/todo
 
 ```
 
 or curl:
 ```sh
-$  curl -v -X GET http://127.0.0.1:8080/api/todo
+$  curl -v http://127.0.0.1:8080/api/todo
 $  curl -v -d '{ "name": "Test1", "isComplete": true }' -H "Content-Type: application/json" -X POST http://127.0.0.1:8080/api/todo
 ```
